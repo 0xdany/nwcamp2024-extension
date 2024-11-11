@@ -22,7 +22,8 @@
     "@extension/content-runtime-script": "workspace:*",
     "@extension/shared": "workspace:*",
     "@extension/storage": "workspace:*",
-    "howler": "^2.2.4"
+
+    "@google/generative-ai": "^0.21.0"
   },
   "devDependencies": {
     "@extension/tailwindcss-config": "workspace:*",
